@@ -6,3 +6,8 @@ For the android app, Android studio has been used but I believe it is possible t
 For the Progressive Web App I started development in Ionic. It has the code to scan for BLE devices but is unable to find any which is an issue I did not resolve. I have made use of the repo: https://loginov-rocks.github.io/Web-Bluetooth-Terminal/ 
 
 
+Microbit code:
+
+Battle:bit https://makecode.microbit.org/59316-89329-24160-52658
+Controller https://makecode.microbit.org/36320-10230-40747-94565
+
